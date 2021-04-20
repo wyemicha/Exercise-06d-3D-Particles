@@ -1,6 +1,8 @@
 # Exercise-06d-3D-Particles
 Exercise for MSCH-C220, 19 April 2021
 
+A demonstration of this exercise is available at [https://youtu.be/ZSZsNlW18gU](https://youtu.be/ZSZsNlW18gU)
+
 This exercise is a chance to play with Godot's 3D Particles. Also, you will have a chance to export a game as a finished product.
 
 Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-06d-3D-Particles. *Edit the LICENSE and replace BL-MSCH-C220-S21 with your full name.* Commit your changes.
