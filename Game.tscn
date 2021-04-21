@@ -76,7 +76,6 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.963271, 1.26608, 1.29986 )
 
 [node name="Laser" type="MeshInstance" parent="Player/Pivot"]
 transform = Transform( 1, 0, 0, 0, -1.62921e-07, -1, 0, 1, -1.62921e-07, 0.958417, 1.51267, 0 )
-visible = false
 mesh = SubResource( 7 )
 material/0 = SubResource( 8 )
 
